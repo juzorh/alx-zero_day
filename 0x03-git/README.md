@@ -1,5 +1,5 @@
 ## Git workflow
 
-- Add
-- Commit
+- Add <file>
+- Commit -m 'message'
 - Push
